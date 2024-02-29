@@ -20,12 +20,15 @@ To run this program, you will need:
 - Python 3.x
 - Tkinter (usually comes pre-installed with Python)
 - pyperclip (optional for password copying functionality)
+- cryptography
 
 ### Installation
 
 1. Clone the repository or download the project files to your local machine.
    
 ```bash
-   git clone https://github.com/yourusername/password_generator.git
-   cd password_generator
+   git clone https://github.com/salvatorevigano0/password_generator.git
+   cd PasswordGenerator
 ```
+2. Run python code.
+
