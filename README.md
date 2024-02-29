@@ -31,4 +31,6 @@ To run this program, you will need:
    cd PasswordGenerator
 ```
 2. Run python code.
-
+```bash
+   python gen_pass.py
+```
